@@ -5,33 +5,44 @@
 }
 
 .logo {
-    width: 23%;
-    padding: 1%;
+    width: 300px;
+    height:300px;
+    padding: 5px;
     text-align: center;
 }
 
-#nav {
+nav {
 width: 73%;
 margin-left: auto;    
 }
 
-#heroimg {
+.heroimg {
     height: 600px;
     padding: 25px;
 }
 
-#content {
+.content {
     width: 500px;
     margin: 0 auto;
 }
 
-#footer {
+.imagecontainer {
+    width: 250px;
+    height:100px;
+}
+
+img {
+    max-width: 100%;
+    height:auto;
+}
+
+footer {
     background-color: #373738;
     padding: 5%;
 }
 
-.ul {
+ul {
     display: inline-block;
     vertical-align: top;
     padding: 5%;
-};
+}
